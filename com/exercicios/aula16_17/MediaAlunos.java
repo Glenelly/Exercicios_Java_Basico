@@ -31,7 +31,7 @@ public class MediaAlunos {
         System.out.println("Informe a quantidade de turmas: ");
         turma = scan.nextInt();
 
-        ////acrescentar enquanto o i for menor que turma
+        //acrescentar enquanto o i for menor que turma ou igual
         for(int i = 1; i <= turma; i++){
 
             //Parar o loop quando a variavel invalido = false
