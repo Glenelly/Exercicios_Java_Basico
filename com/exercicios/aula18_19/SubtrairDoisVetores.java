@@ -12,7 +12,7 @@ public class SubtrairDoisVetores {
         -Criar dois vetores A e B cada um com 10 elementos inteiros
         -Faço o loop para pegar os elementos do vetor A
         -Faço o loop para pegar os elementos do vetor B
-        -Atribuir a soma dos vetores A e B num terceiro Vetor (C)
+        -Atribuir a subtração dos vetores A e B num terceiro Vetor (C)
         -Faço outro loop for para mostrar os elementos dos vetores
         */
 

@@ -34,7 +34,7 @@ public class MultiplicacaoDoisVetores {
             System.out.println("Informe os elementos do vetor B na posição " + (i + 1) + ": ");
             vetorB[i] = scan.nextInt();
 
-            //Atribuindo a soma dos vetores A e B num terceiro Vetor (C)
+            //Atribuindo a multiplicação dos vetores A e B num terceiro Vetor (C)
             vetorC[i] = (vetorA[i] * vetorB[i]);
         }
 

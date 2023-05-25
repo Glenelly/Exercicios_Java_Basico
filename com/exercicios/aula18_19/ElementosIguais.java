@@ -6,8 +6,7 @@ public class ElementosIguais {
     public static void main(String[] args) {
         /*
         * Criar um vetor A com 5 elementos inteiros.
-        * Construir um vetor B demesmo tipo e tamanho e com os "mesmos" elementos do vetor A, ou
-        * seja, B[i] = A[i].
+        * Construir um vetor B demesmo tipo e tamanho e com os "mesmos" elementos do vetor A
         */
         Scanner scan = new Scanner(System.in);
 

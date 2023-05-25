@@ -7,8 +7,7 @@ public class RaizQuadrada {
     public static void main(String[] args) {
         /*
         Criar um vetor A com 15 elementos inteiros. Construir um vetor B de mesmo tamanho,
-        sendo que cada elemento do vetor B deverá ser a raiz quadrada do respectivo elemento de A,
-         ou seja: sqrt(A[i])
+        sendo que cada elemento do vetor B deverá ser a raiz quadrada do respectivo elemento de A
 
         — Crio as variaveis dos arrays (Vetor B possuir o mesmo tamanho do vetor A)
         -Faço o loop para pegar os elementos do vetor A
