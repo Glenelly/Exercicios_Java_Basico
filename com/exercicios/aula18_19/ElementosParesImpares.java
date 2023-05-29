@@ -48,7 +48,7 @@ public class ElementosParesImpares {
         porcentagemPares = (pares * 100) / vetorA.length;
         porcentagemImpares = (impares * 100) / vetorA.length;
 
-        //Exibi os elementos do vetor A
+        //Exibe os elementos do vetor A
         System.out.println("Vetor A: ");
         for (int a : vetorA){
             System.out.print(a + " ");
